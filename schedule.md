@@ -1,16 +1,16 @@
 # Schedule
 
-## Introduction to Linux/Unix command line - how to do everything you would do with your mouse, but faster!
+### 1. Introduction to Linux/Unix command line - how to do everything you would do with your mouse, but faster!
 
-* Lecture (15 mins) [slides](), [video](https://youtu.be/Q6SQVeufb6c) [~12 mins])
+* Lecture (15 mins) [slides](https://webcampus.unr.edu/files/10055543/download?download_frd=1), [video](https://youtu.be/Q6SQVeufb6c) [~12 mins])
      
-## Remote access basics (10 mins) ([slides]()): accessing remote machines via the ssh command
+### 2. Remote access basics: accessing remote machines via the ssh command
 
-* Lecture (10 mins) ([slides](), [commands](https://github.com/piecesofmindlab/GRAD778_unix/blob/fall_2022/exercises/commands_networking.md))
+* Lecture (10 mins) ([slides](https://webcampus.unr.edu/files/10055544/download?download_frd=1), [commands](https://github.com/piecesofmindlab/GRAD778_unix/blob/fall_2022/exercises/commands_networking.md))
 
-## Navigating files and directories: using the command line to find out where you are and to navigate to where you would like to go.
+### 3. Navigating files and directories: using the command line to find out where you are and to navigate to where you would like to go.
 
-* Lecture (~40 mins) ([slides](), [video](https://youtu.be/6mmtXSbOl-0) [~28 mins with no stops], [commands](https://github.com/piecesofmindlab/GRAD778_unix/blob/fall_2022/exercises/commands_navigation.md))
+* Lecture (~40 mins) ([slides](https://webcampus.unr.edu/files/10055545/download?download_frd=1), [video](https://youtu.be/6mmtXSbOl-0) [~28 mins with no stops], [commands](https://github.com/piecesofmindlab/GRAD778_unix/blob/fall_2022/exercises/commands_navigation.md))
 * Exercises:
      * Castle assassin game (practice with finding files)
      * [Software carpentry exercises](http://swcarpentry.github.io/shell-novice/02-filedir/index.html
@@ -19,11 +19,11 @@
 ## *Break* (10:30-10:45)
 
 
-## Working with files and directories: seeing, copying, and moving your files.
+### 4. Working with files and directories: seeing, copying, and moving your files.
 
 * Lecture (~20 mins) ([slides](), [video](https://youtu.be/dOqSkX85h98) [15:30], [commands](https://github.com/piecesofmindlab/GRAD778_unix/blob/fall_2022/exercises/commands_files.md))
 
-# Copying files between computers
+### 5. Copying files between computers
 * Lecture / Demo (~10 mins) ([slides]())
 File Copying Exercise
     Copy a file from your computer to your virtual machine ([commands]())
