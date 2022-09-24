@@ -27,6 +27,8 @@
 * Lecture (~19 mins) ([slides](https://webcampus.unr.edu/files/10055547/download?download_frd=1))
 * [Assignment 2](https://webcampus.unr.edu/courses/88386/assignments/1059220) on webcampus
 
+# Lunch ~12:15-1
+
 ### 6. Copying files between computers
 * Lecture / Demo (~10 mins) ([slides](https://webcampus.unr.edu/files/10055544/download?download_frd=1))
 * File Copying Exercise
@@ -39,5 +41,5 @@
     Man command review
 * Program installation exercise
     Find a fun command-line program!  (see github exercises page)
-# 8. Advanced Bash
+### 8. Advanced Bash
 * Lecture (n minutes, depends on time) [slides](https://webcampus.unr.edu/files/10055551/download?download_frd=1)
