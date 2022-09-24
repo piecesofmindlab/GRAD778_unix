@@ -1,5 +1,5 @@
 # Optional extra exercises for GRAD778 Linux module
-If you finish going through the videos early, try to do these! 
+If you feel confident and/or get ahead, try to do these! 
 
 # File manipulation / navigation
 After completing your scripting exercise for class (in which you create a project directory), use the `touch` command to create (dummy, empty) files in the various directories. 
